@@ -2,7 +2,7 @@
 
 
 
-<a href="www.linkedin.com/in/debashishsahu7/" target="_blank"><img src="image.png" alt="img"></a>
+<a href="https://www.linkedin.com/in/debashishsahu7/" target="_blank"><img src="image.png" alt="img"></a>
 
 
 ### Hi there 👋
