@@ -70,7 +70,7 @@ Here's a list of my latest projects:
 <p align="center"> 
 <a href="https://www.hackerrank.com/debashish7862" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" width="50px" height="50px"/></a>
 <a href="https://www.freecodecamp.org/debashish7862" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FreeCodeCamp_logo.png/800px-FreeCodeCamp_logo.png?20191220141126" width="100px" height="50px"/>
-<a href="https://www.freecodecamp.org/debashish7862" target="_blank"> <img src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" width="50px" height="50px"/>
+<a href="https://leetcode.com/debashish7862/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" width="50px" height="50px"/>
 </p>
 
  
