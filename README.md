@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-## I completed my post-graduate studies in Master of Computer Applications in 2022. Currently, I am actively enhancing my skill set by exploring emerging technologies. At present, I am focusing on JavaScript and working towards improving my expertise in front-end development!
+## I am Debashish ,I completed my post-graduate studies in Master of Computer Applications in 2022. Currently, I am actively enhancing my skill set by exploring emerging technologies. At present, I am focusing on JavaScript and working towards improving my expertise in front-end development!
 
 - 🔭 I’m currently working on ... HTML CSS JS REACT
 - 🌱 I’m currently learning ... Fullstack Developement 😊
