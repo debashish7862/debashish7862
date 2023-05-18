@@ -54,23 +54,23 @@
 
 Here's a list of my latest projects:
 
-<!-- ARTICLES:START -->
 
-- [Why Python is Good for Beginners – and How to Start Learning It](https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/)
-- [Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained](https://www.freecodecamp.org/news/user-authentication-methods-explained/)
-- [API Testing Best Practices – How to Test APIs for Beginners](https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/)
-- [GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub](https://www.freecodecamp.org/news/github-search-tips/)
-- [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/)
 
-<!-- ARTICLES:END -->
+- [Pizza Ordering Website](https://earnest-pavlova-03d171.netlify.app/)
+- [Reciepe Finder](https://debashish7862.github.io/Recipe-Search/)
+- [Inshorts Clone](https://debashish7862.github.io/News-Application/)
+- [AIRBNB Clone](https://debashish7862.github.io/MCT-oct/)
+
+
+
 
 
 ## <h2 align="center">Other links🔗</h2>
 
 <p align="center"> 
-<a href="https://sweetcode.io/author/hnyakundi/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-blog-graphic-design-justicon-lineal-color-justicon.png"/></a>
-<a href="https://aviyel.com/@hillarynyk" target="_blank"> <img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/48/000000/external-article-marketing-xnimrodx-blue-xnimrodx.png"/>
-<a href="https://anchor.fm/hillary-nyakundi" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-podcast-social-media-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
+<a href="https://www.hackerrank.com/debashish7862" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" width="50px" height="50px"/></a>
+<a href="https://www.freecodecamp.org/debashish7862" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FreeCodeCamp_logo.png/800px-FreeCodeCamp_logo.png?20191220141126" width="100px" height="50px"/>
+<a href="https://www.freecodecamp.org/debashish7862" target="_blank"> <img src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" width="50px" height="50px"/>
 </p>
 
  
