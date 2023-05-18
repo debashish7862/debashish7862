@@ -20,8 +20,8 @@
 ### Connect with me:
 
 <p align="left">  
-<a href="https://twitter.com/larymak1_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="www.linkedin.com/in/debashishsahu7" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/debashish.sahu.794" target="blank"><img src="https://img.icons8.com/color/35/000000/facebook.png"/></a>
+<a href="https://www.linkedin.com/in/debashishsahu7/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/debashishsahu7/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 <a href="mailto:debashish7862@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
@@ -32,13 +32,13 @@
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
 <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
- <img src="https://icons8.com/icon/bzf0DqjXFHIW/react"/>
-<img src="https://icons8.com/icon/13679/java"/>
+ <img src="https://img.icons8.com/?size=512&id=asWSSTBrDlTW&format=png"width="40px" height="35px"/>
+<img src="https://img.icons8.com/?size=512&id=13679&format=png"width="40px" height="35px"/>
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/35/000000/git.png"/> 
 <img src="https://img.icons8.com/color/35/000000/github.png"/> 
 <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
-<img src="https://icons8.com/icon/hKw7Mn8TNTuz/sql"/>
+<img src="https://img.icons8.com/?size=512&id=hKw7Mn8TNTuz&format=png" width="40px" height="35px"/>
   
 </p>
 
@@ -73,8 +73,4 @@ Here's a list of my latest projects:
 <a href="https://anchor.fm/hillary-nyakundi" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-podcast-social-media-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
 </p>
 
-### <h2 align="center">Support Me💰</h2>
-
- <p align="center"> 
-<a href="https://www.buymeacoffee.com/lary" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
-</p>
+ 
