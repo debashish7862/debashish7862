@@ -16,7 +16,7 @@
 - 🎸 Would love: To know how to play guitar
 
 - 📝[Resume](#)
-- [Portfolio](https://spectacular-baklava-0c2f88.netlify.app/)
+- :trophy:[Portfolio](https://spectacular-baklava-0c2f88.netlify.app/)
 
 ### Connect with me:
 
