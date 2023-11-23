@@ -55,12 +55,13 @@
 
 Here's a list of my latest projects:
 
-
-
+- [Weather Aoo](https://glistening-cocada-ca4803.netlify.app/)
+- [YouTube Clone](https://incredible-haupia-89cd0e.netlify.app/)
 - [Pizza Ordering Website](https://earnest-pavlova-03d171.netlify.app/)
 - [Reciepe Finder](https://debashish7862.github.io/Recipe-Search/)
 - [Inshorts Clone](https://debashish7862.github.io/News-Application/)
 - [AIRBNB Clone](https://debashish7862.github.io/MCT-oct/)
+
 
 
 
