@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love photography,videography, gyming, and coding
 - 🎸 Would love: To know how to play guitar
 
-- 📝[Resume](#)
+- 📝[Resume](https://docs.google.com/document/d/1OrYovpxR9S3V4u-Ql1VShUNQTOlGoMg67Jjmlc9Ojvg/edit?usp=sharing)
 - :trophy:[Portfolio](https://spectacular-baklava-0c2f88.netlify.app/)
 
 ### Connect with me:
