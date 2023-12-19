@@ -16,7 +16,7 @@
 - 🎸 Would love: To know how to play guitar
 
 - 📝[Resume](https://docs.google.com/document/d/1OrYovpxR9S3V4u-Ql1VShUNQTOlGoMg67Jjmlc9Ojvg/edit?usp=sharing)
-- :trophy:[Portfolio](https://spectacular-baklava-0c2f88.netlify.app/)
+- :trophy:[Portfolio](https://[spectacular-baklava-0c2f88.netlify.app/](https://debashish-sahu-portfolio.netlify.app/))
 
 ### Connect with me:
 
